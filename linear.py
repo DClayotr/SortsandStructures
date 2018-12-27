@@ -18,7 +18,7 @@ def LinearSearch(x, key):
 	
 def main():
 	
-	Array = ["p", "O", "9", "Hi", "909", "!@#$"]
+	Array = ["p", "O", "9", "Hi", "909", "foo"]
 	n = str(raw_input("Enter a key to search for: "))
 	LinearSearch(Array, n)
 		
