@@ -1,2 +1,2 @@
 # SortsandStructures
-Data sorts and data Structures
+Different data structures and sorts in python and java
